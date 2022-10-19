@@ -1,0 +1,1 @@
+export const unqoute = (str: string) => str.match(/^(?:'|")(.+?)(?:'|")$/)?.[1];
