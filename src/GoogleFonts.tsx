@@ -112,6 +112,7 @@ export const GoogleFontsDemo = () => {
           <Sequence
             durationInFrames={fps * 4}
             from={fps + (index * 50)}
+            key={item}
           >
             <FontItem family={item} />
           </Sequence>
