@@ -1,4 +1,4 @@
-# Remotion video
+# Remotion with Google Fonts
 
 <p align="center">
   <a href="https://github.com/remotion-dev/logo">
@@ -9,7 +9,19 @@
   </a>
 </p>
 
-Welcome to your Remotion project!
+Remotion project with Google Fonts.
+
+## Preview
+
+https://user-images.githubusercontent.com/2143364/197157258-60ccc9ec-8c31-41d6-940d-21c1af0865e7.mp4
+
+## Generating Fonts .ts
+
+```console
+pnpm generate-fonts
+```
+
+All fonts will be generated to `./src/fonts`
 
 ## Commands
 
